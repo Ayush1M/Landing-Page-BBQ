@@ -69,7 +69,7 @@ strong { font-weight: 900; }
    ================= */
    
 .intro {
-    background-image: url(../images/dark-ribs.jpg);
+    background-image: url(../images/biryani.jpg);
     background-size: cover;
     background-color: #404040;
     background-position: center;
@@ -155,7 +155,7 @@ input:focus {
    media queries 
    ================= */
    
-@media (min-width: 500px) {
+@media (min-width: 800px) {
     body {
         font-size: 1.125rem;
         display: flex;
