@@ -7,7 +7,6 @@
       * [Screenshot](#screenshot)
  * [Technologies I Used](#technologies-i-used)
  * [What I Learned](#what-i-learned) 
- * [Acknowledgment](#acknowledgment)
 
 # Overview of the Project
 Its a Landing Page made with HTML and CSS which is responsive.
@@ -22,11 +21,11 @@ Its a Landing Page made with HTML and CSS which is responsive.
 
 * Desktop design
 
-![](./images/desktop-preview.png)
+![](./images/screenshot-landingpage.png)
 
 * Mobile design
 
-![](./images/mobile-preview.png)
+![](./images/Mobilescreenshot-landingpage.png)
 
 ## Technologies I Used
 * Semantic HTML5
